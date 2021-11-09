@@ -1,0 +1,21 @@
+﻿  main.cpp
+  ofApp.cpp
+  Ball.cpp
+  TriBall.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+c:\users\naol\desktop\mar-206 code\computergraphics2021-homework\hongshuowang\wk2-triball\src\ofapp.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\naol\desktop\mar-206 code\computergraphics2021-homework\hongshuowang\wk2-triball\src\ofapp.cpp(35): warning C4018: '<': signed/unsigned mismatch
+     Creating library bin\wk2-TriBall_debug.lib and object bin\wk2-TriBall_debug.exp
+  wk2-TriBall.vcxproj -> C:\Users\Naol\Desktop\MAR-206 Code\ComputerGraphics2021-Homework\HongshuoWang\wk2-TriBall\bin\wk2-TriBall_debug.exe
+  
+  	                   2	C:\Users\Naol\Desktop\OF\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	    New File  		 1544704	C:\Users\Naol\Desktop\OF\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\fmod.dll
+  	    New File  		 1733120	C:\Users\Naol\Desktop\OF\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\fmodL.dll
+  
+  	                   1	C:\Users\Naol\Desktop\OF\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1544704	C:\Users\Naol\Desktop\MAR-206 Code\ComputerGraphics2021-Homework\HongshuoWang\wk2-TriBall\bin\fmod.dll
+  	  *EXTRA File 		 1733120	C:\Users\Naol\Desktop\MAR-206 Code\ComputerGraphics2021-Homework\HongshuoWang\wk2-TriBall\bin\fmodL.dll
+  	    New File  		 6018560	C:\Users\Naol\Desktop\OF\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\FreeImage.dll
